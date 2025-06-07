@@ -1,0 +1,113 @@
+SWT Assignment 5
+Description
+
+
+Assignment 5: Test Plan Components 📋
+A test plan is a foundational document in software testing that outlines the strategy, scope, approach, resources, and schedule of testing activities. A well-crafted test plan ensures that testing is structured, effective, and aligned with project goals. Let’s explore the key components! 🚀
+
+1.  Key Components of a Test Plan
+1.1 Test Plan Identifier
+A unique name or code to distinguish the test plan.
+
+Example: TP-001: Login Module Test Plan
+
+1.2 Introduction
+Brief overview of the application, its purpose, and the objectives of the test plan.
+
+1.3 Scope (In and Out)
+In-Scope: Features and functionalities to be tested.
+
+Out-of-Scope: Features that will not be tested.
+
+ Helps prevent scope creep and keeps the team focused.
+
+1.4 Test Items
+List of software components/modules to be tested.
+
+Example: Login, Registration, Dashboard
+
+1.5 Features to be Tested
+Detailed list of all functionalities that will undergo testing.
+
+May include user interface, data flow, or business rules.
+
+1.6 Features Not to be Tested
+Exclusions due to time, risk, or business decisions.
+
+1.7 Test Strategy
+Overall approach: manual vs. automated testing, black-box or white-box, test levels involved.
+
+1.8 Test Environment
+Hardware, software, network setup, and tools needed for testing.
+
+1.9 Test Deliverables
+Artifacts to be produced: test cases, test data, test summary report, defect logs.
+
+1.10 Schedule and Milestones
+Timeline for test case creation, execution, and reporting.
+
+Helps with planning and tracking progress.
+
+1.11 Entry and Exit Criteria
+Entry Criteria: Conditions that must be met to start testing.
+
+Exit Criteria: Conditions that must be met to consider testing complete.
+
+1.12 Roles and Responsibilities
+Who will perform what: test lead, testers, automation engineers, etc.
+
+1.13 Risks and Mitigation
+Identified risks (e.g., short deadlines, limited resources) and how to address them.
+
+1.14 Approvals
+Stakeholders who need to review and sign off on the test plan.
+
+2.  Importance of Defining Scope
+Prevents scope creep, where uncontrolled feature additions delay testing.
+
+Ensures the team understands what is and isn’t included, avoiding misunderstandings.
+
+Keeps testing aligned with business priorities.
+
+3.  Resource Planning
+Why it matters:
+
+Ensures the availability of skilled testers, test environments, and tools.
+
+Helps with budgeting and risk management.
+
+Resources can include:
+
+Human resources (testers, leads, automation engineers)
+
+Hardware/software tools (e.g., Selenium, JIRA, test servers)
+
+Time and budget allocations
+
+4. Importance of Reviewing & Updating the Test Plan
+Projects evolve—requirements change, risks shift, and timelines move.
+
+Regular updates ensure the test plan remains relevant and realistic.
+
+Frequent reviews help maintain alignment with project goals and avoid outdated strategies.
+
+Tip: Review the test plan at the start of every major sprint or milestone!
+
+Summary Table
+Component	Purpose
+Scope	Defines what will and won’t be tested
+Strategy	Guides test approach and techniques
+Resources	Ensures the right people and tools are in place
+Schedule	Helps track progress and manage deadlines
+Entry/Exit Criteria	Marks start and end of test activities
+Risks	Prepares team for potential issues
+Review & Updates	Keeps the plan current with project changes
+
+Final Thoughts
+A well-written test plan is a roadmap to successful testing. It provides clarity, direction, and structure, ensuring everyone is on the same page. By defining scope, aligning resources, and maintaining the plan throughout the project lifecycle, teams can deliver high-quality software confidently and efficiently. ✅
+
+
+
+
+
+
